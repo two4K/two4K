@@ -2,7 +2,7 @@
 - 👀 I’m interested in VJing, Video/film, Development, VR, AV 
 - 🌱 I’m currently learning Unreal and resolume Wire
 - 💞️ I’m looking to collaborate on nearly anything
-- 📫 How to reach me: jim@2fourK.com
+- 📫 How to reach me: jim {at]2fourK.com
 
 <!---
 two4K/two4K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
